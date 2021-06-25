@@ -1,4 +1,4 @@
-# Robot-production-project-paper
+# Robot production project paper
 
 Robot production project paper. It contains the plan of the project, timeline, and product line.
 
